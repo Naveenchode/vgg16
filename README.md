@@ -39,7 +39,5 @@ python covid19.py
 
 You should get a trained model and a results plot at the end of the script.
 
-### If you need my trained model 
-contact me at almas.md60@outlook.com
 
 
